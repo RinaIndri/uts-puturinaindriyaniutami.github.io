@@ -1,0 +1,237 @@
+@import url(https://tools.picsart.com/text/font-generator/);
+::-webkit-validation-bubble-text-block
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+
+/*css brand logo dan nama*/
+.brand span{
+    margin-left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: medium;
+    color: blueviolet;
+    text-decoration: dashed;
+}
+.brand li,a,button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    color: black;
+    text-decoration: wavy;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%;
+    background-color: aqua;
+}
+.brand{
+    list-style: none;
+}
+.brand li{
+    display: inline-block
+    padding;5px
+}
+.brand span{
+    margin-right: 250px;
+    text-shadow: 2px 2px 5px red;
+}
+
+.brand li a:hover{
+    color:brown:aliceblue
+}
+
+.brand input[type=search]{
+    border-radius: 15px;
+    padding: 9px, 10px;
+}
+.brand input[type=search]{
+    border-radius: 9px 10px;
+    background-color: aquamarine(0,136,169,1);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all0.3s ease 0s;
+}
+
+.brand button:haver{
+    background-color: bisque(0,136,169,0,8);
+}
+
+/*Jumbotron*/
+.jumbotron{
+    height: 520px;
+    margin-top: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('img,logo.jpg');
+    background-size: cover;
+    background-position: -100px }
+
+}
+.jumbotron:hover{
+    background-image: url(img/PANTAI.jpg);
+}
+.text.brand{
+    margin-left: 50px;
+    padding: 70px;
+    color: #edfori;
+}
+.text.brand h1{
+    font-size: medium;
+    text-shadow: ; 2px 2px 5px red;
+}
+.text.brand p{
+    font-size: 17px;
+    text-align: justify;
+    text-shadow: 1px 1px;
+    color: bisque;
+}
+.btn-jelajah{
+    width: 200px;
+    height: 50px;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 20p;
+    box-shadow: 2px 2px 5px navajowhite;
+}
+.btn-jelajahi a{
+    background-color: #FFF338
+}
+.btn-jelajahi a{
+    text-decoration: dashed;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px 5px navy;
+}
+
+.btn-video{
+    width: 200px;
+    height: 50px;
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px black;
+}
+.btn-video:hover{
+    background-color: aqua;
+}
+.btn-video a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(85, 17, 17);
+}
+
+/*konten objek wisata*/
+.objekwisata{
+    margin: 5px;
+    padding: 10px;
+    background-color: blueviolet;
+    column-count: 2;
+    -oz-column-count: 2:
+    -webkit-column-count: 2;
+    column-gap: 20px;
+    -moz-column-gap: 20px;
+    -webkit=column=gap: 20px;
+    border: 1px solid #ccc;
+}
+.objekwisata .gambarobjek{
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.gambar .title{
+    text-align: center;
+    font-size: 15px;
+}
+.objekwisata .isian h1{
+    font-size: 35px;
+    text-align: justify;
+}
+
+.objekwisata .isian p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 5px;
+}
+.objekwisata .isian .baca{
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+    text-decoration: none;
+
+}
+.link-img{
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    text-shadow: 1px 1px 3px red;
+}
+
+/*Kontak Pesan*/
+margin: 5px;
+padding: 10px;
+background-color: blueviolet;
+column-count: 2;
+-oz-column-count: 2:
+-webkit-column-count: 2;
+column-gap: 20px;
+-moz-column-gap: 20px;
+-webkit=column=gap: 20px;
+border: 1px solid #ccc;
+
+.form{
+    position: center;}
+    margin; 10px;
+    padding: 40px;
+    background=color: pink;
+    width: 600px;
+    height: 400px;
+
+    /*footer*/
+    margin: 0px;
+padding: 10px;
+background-color: blueviolet;
+column-count: 3;
+-oz-column-count: 3:
+-webkit-column-count: 3;
+column-gap: 40px;
+-moz-column-gap: 40px;
+-webkit=column=gap: 40px;
+border: 1px solid #ccc;
+
+footer p{
+    text-align: justify;
+    font-size: 20px;
+    color: white;
+}
+footer ul il{
+    text-decoration: none;
+    list-style: none;
+}
+footer
+
+
+
+
+
+
+
+
+
+
+
+
+
